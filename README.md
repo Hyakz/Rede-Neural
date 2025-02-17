@@ -1,4 +1,4 @@
-# Estudo de Redes Neurais em JavaScript
+# Estudo sobre Redes Neurais - XOR
 O projeto cria e treina uma rede neural para resolver o problema do XOR, utilizando operações de matrizes e funções de ativação sigmoide.
 
 ## 📜 Licença
